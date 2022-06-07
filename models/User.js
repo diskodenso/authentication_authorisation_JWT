@@ -1,5 +1,5 @@
 // import mongoose
-import mongoose, { mongo } from "mongoose";
+import mongoose from "mongoose";
 // declare Schema and model of mongoose
 const { Schema, model } = mongoose;
 
